@@ -7,7 +7,7 @@
 - beautifulsoup4 (HTML解析)
 
 ## プロジェクトの概要
-このアプリケーションは、ユーザーがテキストエリアに複数入力したQiita記事のURLから、それぞれの記事に設定されているOGP (Open Graph Protocol) メタタグ（`og:image`）を解析し、サムネイル画像のURLを抽出し、**比較的大きなサイズ**で一覧表示します。複数のQiita記事のサムネイルをまとめて確認したい場合に便利です。
+この[アプリケーション](https://qiitathumbnailapp-gzypbkvjdpjskir6siwv5p.streamlit.app/)は、ユーザーがテキストエリアに複数入力したQiita記事のURLから、それぞれの記事に設定されているOGP (Open Graph Protocol) メタタグ（`og:image`）を解析し、サムネイル画像のURLを抽出し、**比較的大きなサイズ**で一覧表示します。複数のQiita記事のサムネイルをまとめて確認したい場合に便利です。
 
 ## 必要な環境変数やコマンド一覧
 特になし。
